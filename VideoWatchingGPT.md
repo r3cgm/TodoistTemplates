@@ -166,3 +166,7 @@ Notes:
 
 - Recommended by Smarter Every Day.
 - Known for its insightful and educational content on machine thinking and AI.
+
+# Eratta
+
+ChatGPT is producing broken links to video sources.  I am looking into why this is happening and will have a fix soon.
