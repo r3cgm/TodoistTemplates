@@ -39,11 +39,11 @@ Tell ChatGPT to use this template format and let it do the rest.  Copy/paste the
 
     Ratings:
 
-    [Rotten Tomatoes Critics]% Rotten Tomatoes Critics (Sort by highest)
-    [IMDb]% IMDb
-    [Metacritic]% Metacritic
-    [Rotten Tomatoes Audience]% Rotten Tomatoes Audience
-
+    [Rating 1]% Rotten Tomatoes Critics
+    [Rating 2]% Rotten Tomatoes Audience
+    [Rating 3]% IMDb
+    [Rating 4]% Metacritic
+    
     Notes:
 
     [Personal Notes]
@@ -54,6 +54,8 @@ Tell ChatGPT to use this template format and let it do the rest.  Copy/paste the
 
     Watch Section: Either list the channel as an individual line with price and link if it is available, or append it to the list of unavailable streaming channels on the bottom line.
     Ratings Section: Sort ratings by highest to lowest.
+    Price Rounding: Round prices ending in .99 cents up to the nearest dollar.
+
 
 # Examples
 
