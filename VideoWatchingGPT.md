@@ -46,6 +46,10 @@ Tell ChatGPT to use this template format and let it do the rest.  Copy/paste the
     
     Notes:
 
+    [Note 1]
+    [Note 2]
+    [Note 3]
+
     [Personal Notes]
 
     -------------------------------------------------
@@ -55,7 +59,8 @@ Tell ChatGPT to use this template format and let it do the rest.  Copy/paste the
     Watch Section: Either list the channel as an individual line with price and link if it is available, or append it to the list of unavailable streaming channels on the bottom line.
     Ratings Section: Sort ratings by highest to lowest.
     Price Rounding: Round prices ending in .99 cents up to the nearest dollar.
-
+    References: If there is a reference like "reviewed by X," try to find a link to that reference as well and put it in the notes.
+    Additional Notes: Add up to 3 relevant notes, such as personal recommendations or notable features.
 
 # Examples
 
